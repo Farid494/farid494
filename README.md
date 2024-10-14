@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farid Hussain</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-- 🔭 I’m currently working as **Strategy Manager**
+- 🔭 I’m currently working as **Strategy Manager at QuantCerntainty**
 
 - 🌱 I’m currently learning **AI/ ML, auto deployment for algo trading**
 
-- 👯 I’m looking to collaborate on **Algo trading, AI/ML integration**
+- 👯 I’m looking to collaborate on **AI/ML integration**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/thefaridhussain/](https://www.linkedin.com/in/thefaridhussain/)
 
